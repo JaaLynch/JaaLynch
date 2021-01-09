@@ -1,2 +1,2 @@
 # JaaLynch
-Hello world!
+This is my git page.
